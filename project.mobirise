@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Polaris Roadmap-clone",
-    "currentPage": "windows.html",
+    "currentPage": "playstation.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -563,7 +563,7 @@
     },
     "windows.html": {
       "settings": {
-        "meta_descr": "roadmap",
+        "meta_descr": "Learn to connect to Polaris on Windows and phones!",
         "title": "Polaris | Windows",
         "order": 2
       },
@@ -1211,7 +1211,7 @@
     },
     "xbox.html": {
       "settings": {
-        "meta_descr": "roadmap",
+        "meta_descr": "Learn to connect to Polaris on Xbox One and Nintendo Switch!",
         "title": "Polaris | Xbox",
         "order": 3
       },
@@ -1857,7 +1857,7 @@
     },
     "playstation.html": {
       "settings": {
-        "meta_descr": "roadmap",
+        "meta_descr": "Learn how to connect to Polaris on PlayStation and IPv4 connections!",
         "title": "Polaris | PlayStation",
         "order": 4
       },
