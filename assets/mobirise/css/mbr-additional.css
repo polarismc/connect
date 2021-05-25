@@ -716,8 +716,18 @@ a {
 .cid-sys05wAY7N .mbr-section-btn {
   color: #ffffff;
 }
+.cid-sysbNUggqs {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sysbNUggqs .mbr-section-btn {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
 .cid-syrZx0GQvC {
-  padding-top: 5rem;
+  padding-top: 4rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
